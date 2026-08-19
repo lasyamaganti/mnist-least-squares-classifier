@@ -1,4 +1,4 @@
-% NOT MY CODE, ONLY USED FOR mnist-classifier.m
+% NOT MY CODE, ONLY USED FOR mnist-classification.m
 % readMNIST by Siddharth Hegde
 %
 % Description:
